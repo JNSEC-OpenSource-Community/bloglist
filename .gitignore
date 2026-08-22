@@ -1,0 +1,8 @@
+# Generated publication files
+site/blogroll.xml
+site/opml.xml
+
+# Local preview output
+site-preview/
+__pycache__/
+*.py[cod]

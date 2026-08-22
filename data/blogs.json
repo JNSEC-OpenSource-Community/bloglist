@@ -1,0 +1,16 @@
+{
+  "$schema": "./blogs.schema.json",
+  "version": 1,
+  "title": " JNSEC OpenSource Community 博客列表",
+  "description": "收集社区成员和朋友们的博客。欢迎你通过 Pull Request 添加自己的博客。",
+  "repository": "https://github.com/JNSEC-OpenSource-Community/bloglist",
+  "blogs": [
+    {
+      "name": "Nick's Blog",
+      "homepage": "https://nickchen.top/",
+      "feed": "https://nickchen.top/rss.xml",
+      "description": "越平静，越汹涌",
+      "tags": ["Web 安全", "Web 开发"]
+    }
+  ]
+}
