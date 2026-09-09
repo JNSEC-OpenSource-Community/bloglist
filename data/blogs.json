@@ -11,6 +11,13 @@
       "feed": "https://nickchen.top/rss.xml",
       "description": "越平静，越汹涌",
       "tags": ["Web 安全", "Web 开发"]
+    },
+    {
+      "name": "SnowCat's Blog",
+      "homepage": "https://sadsnowcat.com/",
+      "feed": "https://sadsnowcat.com/rss.xml",
+      "description": "Pwn.萌新",
+      "tags": ["PWN"]
     }
   ]
 }
