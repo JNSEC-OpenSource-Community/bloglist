@@ -18,6 +18,13 @@
       "feed": "https://sadsnowcat.com/rss.xml",
       "description": "Pwn.萌新",
       "tags": ["PWN"]
+    },
+    {
+      "name": "Moyue's Blog",
+      "homepage": "https://qmoyue.github.io/",
+      "feed": "https://qmoyue.github.io/rss.xml",
+      "description": "梦是现实的延续，现实是梦的终结。",
+      "tags": ["Web 安全"]
     }
   ]
 }
